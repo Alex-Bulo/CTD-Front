@@ -7,11 +7,11 @@ header{
     background-color: #1CD1B0;
     padding: 10px;
 }
-.main-title{
+.titulo{
     height: 100px;
     padding: 28px;
 
-    background-color: #00669F;
+    background-color: #9f0000;
     box-shadow: -2px 8px 20px;
 }
 .card{
